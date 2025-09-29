@@ -1,0 +1,7 @@
+{
+  "name": "Snap & Shop AI",
+  "description": "An AI-powered web application that lets you take a picture or upload an image of an item, identifies it, and finds online stores where you can purchase it.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
